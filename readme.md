@@ -10,8 +10,9 @@ Please follow the following instructions to contribute!
 4. You will need to install the foolowing pre-requisits
     a. `npm install exp-cli -g `
     b. `npm install expo -g`
-5. `CD <app-name>`, to go into your app.
-6. Run `expo start`
-7. After contributing, create a pull request into the working feature branches only.
+5. `cd <app-name>`, to go into your app.
+6. Run `npm install` or `yarn`
+7. Run `expo start`
+8. After contributing, create a pull request into the working feature branches only.
 
 For any further queries, connect Project owners and Collaborators.
